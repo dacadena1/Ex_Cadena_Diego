@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\DAL.dll.config
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\Entities.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\DAL\obj\Debug\DAL.pdb

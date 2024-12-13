@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\bin\Debug\SLC.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\bin\Debug\SLC.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\bin\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\bin\Debug\Entities.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\obj\Debug\SLC.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis\Ex_Cadena_Diego\SLC\obj\Debug\SLC.pdb
